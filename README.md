@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Janek
 - 👀 I’m interested in technology & learning
 - 🌱 I’m currently an IT student at the Silesian University of Technology
-- 📫 Reach me via mail: jan.skibins@gmail.com
+- 📫 Reach me via mail: jan.skibins@gmail.com / LinkedIn: www.linkedin.com/in/jan-skibinski
 
 <!---
 skibins/skibins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
