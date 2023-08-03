@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janek Skibiński
+- 👋 Hi, I’m Janek
 - 👀 I’m interested in technology & learning
 - 🌱 I’m currently an IT student at the Silesian University of Technology
 - 📫 Reach me via mail: jan.skibins@gmail.com
