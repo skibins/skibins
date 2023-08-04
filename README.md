@@ -10,7 +10,7 @@ Junior Software Developer
 
 I am a passionate junior software developer with an interest in new technology, computers, and self-development. I graduated from the High School of Władysław Szybinski as a software developer. Now I'm starting my journey as an informatics student at the Silesian University of Technology.
 
-* 🌍  I'm baesd in Poland
+* 🌍  I'm based in Poland
 * ✉️  You can contact me at [jan.skibins@gmail.com](mailto:jan.skibins@gmail.com)
 * 🧠  I'm currently learning project management
 * ⚡️  I'm continuously trying to improve myself
@@ -55,7 +55,7 @@ I am a passionate junior software developer with an interest in new technology, 
 
 <img align="right" width="45%" src="american-psycho.gif" alt="American Psycho gif">
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ### Unfortunately I had to create a new GitHub account 
 ### so all my progress made in these projects cannot be seen
