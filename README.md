@@ -12,7 +12,7 @@ I am a passionate junior software developer with an interest in new technology, 
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [jan.skibins@gmail.com](mailto:jan.skibins@gmail.com)
-* 🧠  I'm currently learning project management
+* 🧠  I'm currently learning Laravel/Vue.js
 * ⚡️  I'm continuously trying to improve myself
 * 📽   I'm also passionate about video editing
 
