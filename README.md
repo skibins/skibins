@@ -59,5 +59,5 @@ I am a passionate junior software developer with an interest in new technology, 
 <br/><br/><br/><br/><br/>
 
 ### Unfortunately I had to create a new GitHub account 
-### so all my progress made in these projects cannot be seen
-### from here 😭😭
+### so all my progress made in these two projects cannot
+### be seen from here 😭😭
