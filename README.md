@@ -8,7 +8,7 @@ Software Developer
 
 <br/>
 
-I am a passionate junior software developer with an interest in new technology, computers, and self-development. I graduated from the High School of Władysław Szybinski as a software developer. Now I'm starting my journey as an informatics student at the Silesian University of Technology. Check out my - <a href="https://skibins.github.io/skibins-portfolio/" target="_blank">portfolio</a> -
+I am a passionate software developer with an interest in new technology, computers, and self-development. I graduated from the High School of Władysław Szybinski as a software developer. Now I'm starting my journey as an informatics student at the Silesian University of Technology. Check out my - <a href="https://skibins.github.io/skibins-portfolio/" target="_blank">portfolio</a> -
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [jan.skibins@gmail.com](mailto:jan.skibins@gmail.com)
