@@ -12,7 +12,7 @@ I am a passionate software developer with an interest in new technology, compute
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [jan.skibins@gmail.com](mailto:jan.skibins@gmail.com)
-* 🧠  I'm currently learning everything 🤓
+* 🧠  I'm currently learning DevOps & Data Engineering 🤓
 * ⚡️  I'm continuously trying to improve myself
 * 📽   I'm also passionate about video editing
 
