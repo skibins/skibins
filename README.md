@@ -3,12 +3,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is *Janek*
 =====================================================================================================================================
 
-Software Developer
+Software/Cloud Engineer
 -------------------------
 
 <br/>
 
-I am a passionate software developer with an interest in new technology, computers, and self-development. I graduated from the High School of Władysław Szybinski as a software developer. Now I'm starting my journey as an informatics student at the Silesian University of Technology. Check out my - <a href="https://skibins.github.io/skibins-portfolio/" target="_blank">portfolio</a> -
+I am a passionate software engineer with an interest in cloud technologies, AI/GenAI and DevOps. I'm currently an informatics/data science student at the Silesian University of Technology. 
+<br/>
+Check out my - <a href="https://skibins.github.io/portfolio2.0/" target="_blank">portfolio</a> -
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [jan.skibins@gmail.com](mailto:jan.skibins@gmail.com)
@@ -86,7 +88,3 @@ I am a passionate software developer with an interest in new technology, compute
 </h3>
 
 <p align="center"><a href="https://www.linkedin.com/in/jan-skibinski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/skibins/BankAIAssistant2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skibins&repo=BankAIAssistant2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/skibins/angular-book-rental" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skibins&repo=angular-book-rental&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
